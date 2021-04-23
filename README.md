@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ljaponc
 - 👀 I’m interested in web developement, ethical hacking and game developement.
-- 🌱 I’m currently learning java, javaEE, Kali Linux, java-swing. 
+- 🌱 I’m currently learning java, javaEE, Kali Linux, springboot, jsf, primefaces, jpa, postgreSQL, wildfly server-management. 
 
 
 <!---
