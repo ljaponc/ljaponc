@@ -8,4 +8,4 @@ ljaponc/ljaponc is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Alt Text](https://giphy.com/gifs/animation-title-tintin-acYM57VCaW6pa/embed)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
